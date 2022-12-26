@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hydra Network](https://hydranet.repl.co/)
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Lua** **Python** **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Robobo2022](https://github.com/Robobo2022)
 

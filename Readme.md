@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lua**, **Python**, **C++**, **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Robobo2022]([https://github.com/Robobo2022](https://robobo2022.github.io/Projects/ProjectIndex.html))
+- 👨‍💻 All of my projects are available at https://robobo2022.github.io/Projects/ProjectIndex.html
 
 - 📫 How to reach me **hydra#8270**
 

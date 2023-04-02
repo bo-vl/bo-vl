@@ -8,6 +8,11 @@
 - 👨‍💻 All of my projects are available at https://robobo2022.github.io/Projects/ProjectIndex.html
 
 - 📫 How to reach me **hydra#8270**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Robobo2022&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Robobo2022&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Robobo2022&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

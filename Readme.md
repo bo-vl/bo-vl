@@ -4,6 +4,3 @@
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=lua,html,javascript,python,Csharp,ruby,shell&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
-
-## Contact
-- Discord: Bo.xd

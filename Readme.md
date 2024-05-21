@@ -3,4 +3,4 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Bovanlaarhoven&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=lua,html,javascript,python,Csharp,ruby,shell&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=lua,html,javascript,python,Csharp,ruby,shell,java&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
